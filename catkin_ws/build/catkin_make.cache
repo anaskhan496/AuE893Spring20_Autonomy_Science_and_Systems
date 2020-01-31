@@ -1,0 +1,2 @@
+assignment2_ws:turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/anas/AuE893Spring20_MohammadAnasImamKhan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anas/AuE893Spring20_MohammadAnasImamKhan/catkin_ws/install -G Unix Makefiles
