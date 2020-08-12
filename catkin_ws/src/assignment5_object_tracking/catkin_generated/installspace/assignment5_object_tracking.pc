@@ -1,0 +1,8 @@
+prefix=/home/anas/AuE893Spring20_MohammadAnasImamKhan/catkin_ws/install
+
+Name: assignment5_object_tracking
+Description: Description of assignment5_object_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
