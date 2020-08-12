@@ -1,0 +1,8 @@
+prefix=/home/anas/AuE893Spring20_MohammadAnasImamKhan/catkin_ws/install
+
+Name: turtlebot3_auefinals
+Description: Description of turtlebot3_auefinals
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
