@@ -25,7 +25,7 @@ This repository will contain code files and their explanations which will be don
   <img src="https://github.com/anaskhan496/AuE893Spring20_Autonomy_Science_and_Systems/blob/master/videos/1-April-tag-detection.gif" width="600" />
 </p>
 
-## [Autonomous Navigation of TurtleBot](https://github.com/anaskhan496/AuE893Spring20_Autonomy_Science_and_Systems/tree/master/catkin_ws/src/assignment5_object_tracking)
+## [Autonomous Navigation of TurtleBot](https://github.com/anaskhan496/AuE893Spring20_Autonomy_Science_and_Systems/tree/master/catkin_ws/src/turtlebot3_auefinals)
 - Obstacle avoidance, and wall following user laser data, Line following using OpenCV, stop sign detection using Tiny-YOLO framework, human tracking using Lidar data.
 - The above-mentioned maneuveures were performed sequentially using a rule-based switching algorithm.
 - Used Gmapping ROS package for doing Simultaneous Localization, and Mapping of the environment as the turtlebot moves. 
